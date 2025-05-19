@@ -19,7 +19,7 @@ Detailed information is in [HD44780 Datasheet](https://www.sparkfun.com/datashee
 
 ## Library
 Library is aimed for MCU ATmega16 / Atmega8 which supports [4-bit Operation](#initializing-4-bit-operation).
-
+1
 ### Tested
 Library was tested and proved on a **_16x2 LCD Display_** with **_Atmega16_**.
 
